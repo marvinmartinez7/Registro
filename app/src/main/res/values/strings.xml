@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Registro</string>
+    <string name="name">Ingrese Nombre</string>
+    <string name="ape">Ingrese Apellido</string>
+    <string name="edad">Ingrese Edad</string>
+    <string name="correo">Ingrese Correo</string>
+    <string name="direc">Ingrese Direccion</string>
+    <string name="guardar">Guardar</string>
+    <string name="modif">Modificar</string>
+    <string name="Eliminar">Eliminar</string>
+
+
+</resources>
